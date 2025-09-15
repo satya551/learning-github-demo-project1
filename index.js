@@ -21,5 +21,7 @@ function newFeatureAddC()
     
     console.log("this is a new feature enjonig");
     console.log(" new feature added again");
+    console.log(" new feature added again");
+    
 
 }
