@@ -16,3 +16,10 @@ function newFeatureAddB()
     console.log(" new feature added again");
 
 }
+function newFeatureAddC()
+{
+    
+    console.log("this is a new feature enjonig");
+    console.log(" new feature added again");
+
+}
