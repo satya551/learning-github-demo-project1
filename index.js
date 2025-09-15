@@ -9,7 +9,10 @@ function isAbove(){
     return age>=18;
 }
 
-function newFeatureAdd(){
+function newFeatureAddB()
+{
+    
     console.log("this is a new feature enjonig");
     console.log(" new feature added again");
+
 }
